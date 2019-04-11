@@ -1,0 +1,9 @@
+.DS_Store
+
+rireki.tex
+*.pdf
+*.aux
+*.dvi
+*.fdb_latexmk
+*.fls
+*.log

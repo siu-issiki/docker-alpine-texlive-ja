@@ -1,11 +1,4 @@
-# Copyright (c) 2016 Kaito Udagawa
-# Copyright (c) 2016-2018 3846masa
-# Released under the MIT license
-# https://opensource.org/licenses/MIT
-
 FROM frolvlad/alpine-glibc
-
-MAINTAINER 3846masa
 
 ENV PATH /usr/local/texlive/2018/bin/x86_64-linuxmusl:$PATH
 
