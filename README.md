@@ -1,4 +1,4 @@
-#USAGE
+# USAGE
 
 ```
 cp rireki.tex.example rireki.tex
